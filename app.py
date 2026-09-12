@@ -1,9 +1,6 @@
 """
 app.py
 AI-Powered Personal Wellness and Habit Intelligence
-Minor Project - MCA 2nd Year
-Team: Diksha Bhatt & Sachin Parihar
-
 Run with: streamlit run app.py
 """
 
